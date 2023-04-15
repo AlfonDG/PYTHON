@@ -1,3 +1,0 @@
-import operaciones_matematicas
-
-print(operaciones_matematicas)
