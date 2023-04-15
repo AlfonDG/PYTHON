@@ -1,0 +1,7 @@
+import validaciones_nombres_usuario
+
+import validador_contrasenas
+
+print(validaciones_nombres_usuario)
+
+print(validador_contrasenas)
